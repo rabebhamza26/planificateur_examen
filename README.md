@@ -28,4 +28,5 @@ Chaque examen doit être planifié :
 Installer les dépendances : pip install -r requirements.txt
 
 Exécution : python interface.py
+<img width="1280" height="679" alt="image" src="https://github.com/user-attachments/assets/d9738be5-4d48-4fef-b52a-7058597e6caf" />
 
